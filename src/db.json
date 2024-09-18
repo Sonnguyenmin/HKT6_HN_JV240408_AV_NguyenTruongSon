@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "productName": "Samsung Galaxy A05 6GB/128GB",
+    "price": 2890000,
+    "image": "./samsung1.jpg"
+  },
+  {
+    "id": 2,
+    "productName": "HP 15s fq5229TU i3 1215U (8U237PA)",
+    "price": 9990000,
+    "image": "./hp1.png"
+  },
+  {
+    "id": 3,
+    "productName": "Samsung Galaxy Fit3 dây silicone",
+    "price": 990000,
+    "image": "./dongho.jpg"
+  },
+  {
+    "id": 4,
+    "productName": "HP 15 fd0304TU i3 1315U (A2NL5PA) ",
+    "price": 10990000,
+    "image": "./hp2.jpg"
+  },
+  {
+    "id": 5,
+    "productName": "iPhone 15 Plus 512GB",
+    "price": 28990000,
+    "image": "./iphon1.jpg"
+  },
+  {
+    "id": 6,
+    "productName": "Samsung Galaxy Z Fold5 5G 12GB/256GB",
+    "price": 24290000,
+    "image": "./galaxyAi.jpg"
+  },
+  {
+    "id": 7,
+    "productName": "MacBook Air 13 inch M3",
+    "price": 31990000,
+    "image": "max.jpg"
+  },
+  {
+    "id": 8,
+    "productName": "Camera IP 360 Độ 4MP EZVIZ H6C Pro",
+    "price": 650000,
+    "image": "./camera.jpg"
+  },
+  {
+    "id": 9,
+    "productName": "Samsung Galaxy A05 4GB/128GB",
+    "price": 2640000,
+    "image": "./sumsung2.jpg"
+  },
+  {
+    "id": 10,
+    "productName": "Iphone 15 Pro max",
+    "price": 30000000,
+    "image": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-gold-thumbnew-600x600.jpg"
+  }
+]
